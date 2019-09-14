@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chalak-online-cv/static/css/main.b7439b88.chunk.css",
-    "main.js": "/chalak-online-cv/static/js/main.a89d4718.chunk.js",
-    "main.js.map": "/chalak-online-cv/static/js/main.a89d4718.chunk.js.map",
+    "main.css": "/chalak-online-cv/static/css/main.8fdf6045.chunk.css",
+    "main.js": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js",
+    "main.js.map": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js.map",
     "runtime~main.js": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js",
     "runtime~main.js.map": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js.map",
     "static/js/2.a3a5ef70.chunk.js": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js",
     "static/js/2.a3a5ef70.chunk.js.map": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js.map",
     "index.html": "/chalak-online-cv/index.html",
-    "precache-manifest.aa56c3ad505f5558bd9b28763959d483.js": "/chalak-online-cv/precache-manifest.aa56c3ad505f5558bd9b28763959d483.js",
+    "precache-manifest.e2c57ac04ef9a25bd489b335d112dc1c.js": "/chalak-online-cv/precache-manifest.e2c57ac04ef9a25bd489b335d112dc1c.js",
     "service-worker.js": "/chalak-online-cv/service-worker.js",
-    "static/css/main.b7439b88.chunk.css.map": "/chalak-online-cv/static/css/main.b7439b88.chunk.css.map",
+    "static/css/main.8fdf6045.chunk.css.map": "/chalak-online-cv/static/css/main.8fdf6045.chunk.css.map",
     "static/media/app.scss": "/chalak-online-cv/static/media/bodybuilding.aace9438.png"
   }
 }

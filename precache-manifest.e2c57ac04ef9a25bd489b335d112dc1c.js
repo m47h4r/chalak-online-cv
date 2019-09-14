@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6b2b08b553d443cb1b2b8bf1fe4187d",
+    "revision": "f659b3cef21b279640545c470d9886f1",
     "url": "/chalak-online-cv/index.html"
   },
   {
-    "revision": "358b6ed1d937fc3553a5",
-    "url": "/chalak-online-cv/static/css/main.b7439b88.chunk.css"
+    "revision": "7b99feb7bb48e865c415",
+    "url": "/chalak-online-cv/static/css/main.8fdf6045.chunk.css"
   },
   {
     "revision": "52b356408216762e597d",
     "url": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js"
   },
   {
-    "revision": "358b6ed1d937fc3553a5",
-    "url": "/chalak-online-cv/static/js/main.a89d4718.chunk.js"
+    "revision": "7b99feb7bb48e865c415",
+    "url": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js"
   },
   {
     "revision": "d459711218307003d506",
