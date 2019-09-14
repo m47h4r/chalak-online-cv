@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chalak-online-cv/static/css/main.5e43e024.chunk.css",
+    "main.css": "/chalak-online-cv/static/css/main.83775f44.chunk.css",
     "main.js": "/chalak-online-cv/static/js/main.2ee9728e.chunk.js",
     "main.js.map": "/chalak-online-cv/static/js/main.2ee9728e.chunk.js.map",
     "runtime~main.js": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js",
@@ -8,9 +8,9 @@
     "static/js/2.a3a5ef70.chunk.js": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js",
     "static/js/2.a3a5ef70.chunk.js.map": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js.map",
     "index.html": "/chalak-online-cv/index.html",
-    "precache-manifest.f19457c330efc595b6cac08290e45910.js": "/chalak-online-cv/precache-manifest.f19457c330efc595b6cac08290e45910.js",
+    "precache-manifest.d8e34d480441690906a05d949fba65c2.js": "/chalak-online-cv/precache-manifest.d8e34d480441690906a05d949fba65c2.js",
     "service-worker.js": "/chalak-online-cv/service-worker.js",
-    "static/css/main.5e43e024.chunk.css.map": "/chalak-online-cv/static/css/main.5e43e024.chunk.css.map",
+    "static/css/main.83775f44.chunk.css.map": "/chalak-online-cv/static/css/main.83775f44.chunk.css.map",
     "static/media/app.scss": "/chalak-online-cv/static/media/trx.305dff5f.png"
   }
 }
