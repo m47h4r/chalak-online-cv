@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50655b1441628323237e52c58b4205cc",
+    "revision": "d6b2b08b553d443cb1b2b8bf1fe4187d",
     "url": "/chalak-online-cv/index.html"
   },
   {
-    "revision": "0462e48c7c057d912003",
-    "url": "/chalak-online-cv/static/css/main.020cd940.chunk.css"
+    "revision": "358b6ed1d937fc3553a5",
+    "url": "/chalak-online-cv/static/css/main.b7439b88.chunk.css"
   },
   {
     "revision": "52b356408216762e597d",
     "url": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js"
   },
   {
-    "revision": "0462e48c7c057d912003",
-    "url": "/chalak-online-cv/static/js/main.c9a44001.chunk.js"
+    "revision": "358b6ed1d937fc3553a5",
+    "url": "/chalak-online-cv/static/js/main.a89d4718.chunk.js"
   },
   {
     "revision": "d459711218307003d506",
@@ -38,13 +38,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aace94385ad7403c6ce6c08e38fa1c0a",
     "url": "/chalak-online-cv/static/media/bodybuilding.aace9438.png"
-  },
-  {
-    "revision": "8d0269463186d6e79b0f21dd0ff068d4",
-    "url": "/chalak-online-cv/static/media/conditioning-coaching.8d026946.png"
-  },
-  {
-    "revision": "305dff5fd9fac2fb65904ebbc6865f48",
-    "url": "/chalak-online-cv/static/media/trx.305dff5f.png"
   }
 ]);
