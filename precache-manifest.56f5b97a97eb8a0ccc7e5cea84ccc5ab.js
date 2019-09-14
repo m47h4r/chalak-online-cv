@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f659b3cef21b279640545c470d9886f1",
+    "revision": "472fe7fca3fd301c8c6ff2437b6623cd",
     "url": "/chalak-online-cv/index.html"
   },
   {
-    "revision": "7b99feb7bb48e865c415",
-    "url": "/chalak-online-cv/static/css/main.8fdf6045.chunk.css"
+    "revision": "b3217e214de01aa631b3",
+    "url": "/chalak-online-cv/static/css/main.0a61f4d4.chunk.css"
   },
   {
     "revision": "52b356408216762e597d",
     "url": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js"
   },
   {
-    "revision": "7b99feb7bb48e865c415",
+    "revision": "b3217e214de01aa631b3",
     "url": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js"
   },
   {
