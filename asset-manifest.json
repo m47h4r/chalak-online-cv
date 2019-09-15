@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/chalak-online-cv/static/css/main.0a61f4d4.chunk.css",
-    "main.js": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js",
-    "main.js.map": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js.map",
+    "main.css": "/chalak-online-cv/static/css/main.119bb0cc.chunk.css",
+    "main.js": "/chalak-online-cv/static/js/main.073b0e92.chunk.js",
+    "main.js.map": "/chalak-online-cv/static/js/main.073b0e92.chunk.js.map",
     "runtime~main.js": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js",
     "runtime~main.js.map": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js.map",
-    "static/js/2.a3a5ef70.chunk.js": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js",
-    "static/js/2.a3a5ef70.chunk.js.map": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js.map",
+    "static/css/2.06565635.chunk.css": "/chalak-online-cv/static/css/2.06565635.chunk.css",
+    "static/js/2.cc701cd9.chunk.js": "/chalak-online-cv/static/js/2.cc701cd9.chunk.js",
+    "static/js/2.cc701cd9.chunk.js.map": "/chalak-online-cv/static/js/2.cc701cd9.chunk.js.map",
     "index.html": "/chalak-online-cv/index.html",
-    "precache-manifest.56f5b97a97eb8a0ccc7e5cea84ccc5ab.js": "/chalak-online-cv/precache-manifest.56f5b97a97eb8a0ccc7e5cea84ccc5ab.js",
+    "precache-manifest.8827c8d9360cbb4574d6457a7958fbdf.js": "/chalak-online-cv/precache-manifest.8827c8d9360cbb4574d6457a7958fbdf.js",
     "service-worker.js": "/chalak-online-cv/service-worker.js",
-    "static/css/main.0a61f4d4.chunk.css.map": "/chalak-online-cv/static/css/main.0a61f4d4.chunk.css.map",
+    "static/css/2.06565635.chunk.css.map": "/chalak-online-cv/static/css/2.06565635.chunk.css.map",
+    "static/css/main.119bb0cc.chunk.css.map": "/chalak-online-cv/static/css/main.119bb0cc.chunk.css.map",
     "static/media/app.scss": "/chalak-online-cv/static/media/bodybuilding.aace9438.png"
   }
 }

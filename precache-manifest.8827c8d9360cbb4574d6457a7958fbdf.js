@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "472fe7fca3fd301c8c6ff2437b6623cd",
+    "revision": "5ad8b71a2a1967d5901b30dfcba5e9cf",
     "url": "/chalak-online-cv/index.html"
   },
   {
-    "revision": "b3217e214de01aa631b3",
-    "url": "/chalak-online-cv/static/css/main.0a61f4d4.chunk.css"
+    "revision": "688af302e2be3a77719f",
+    "url": "/chalak-online-cv/static/css/2.06565635.chunk.css"
   },
   {
-    "revision": "52b356408216762e597d",
-    "url": "/chalak-online-cv/static/js/2.a3a5ef70.chunk.js"
+    "revision": "c47389559c3b4990c741",
+    "url": "/chalak-online-cv/static/css/main.119bb0cc.chunk.css"
   },
   {
-    "revision": "b3217e214de01aa631b3",
-    "url": "/chalak-online-cv/static/js/main.aaeb1dc6.chunk.js"
+    "revision": "688af302e2be3a77719f",
+    "url": "/chalak-online-cv/static/js/2.cc701cd9.chunk.js"
+  },
+  {
+    "revision": "c47389559c3b4990c741",
+    "url": "/chalak-online-cv/static/js/main.073b0e92.chunk.js"
   },
   {
     "revision": "d459711218307003d506",
