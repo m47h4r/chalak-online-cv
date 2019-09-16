@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chalak-online-cv/precache-manifest.815e369d145f7179ef6485dbc8e22e96.js"
+  "/chalak-online-cv/precache-manifest.d94b88f55f54aafde41ddf6ae97587eb.js"
 );
 
 self.addEventListener('message', (event) => {

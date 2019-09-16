@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/chalak-online-cv/static/css/main.119bb0cc.chunk.css",
-    "main.js": "/chalak-online-cv/static/js/main.bde48df7.chunk.js",
-    "main.js.map": "/chalak-online-cv/static/js/main.bde48df7.chunk.js.map",
+    "main.css": "/chalak-online-cv/static/css/main.d53b321e.chunk.css",
+    "main.js": "/chalak-online-cv/static/js/main.75b1865c.chunk.js",
+    "main.js.map": "/chalak-online-cv/static/js/main.75b1865c.chunk.js.map",
     "runtime~main.js": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js",
     "runtime~main.js.map": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js.map",
     "static/css/2.06565635.chunk.css": "/chalak-online-cv/static/css/2.06565635.chunk.css",
-    "static/js/2.cc701cd9.chunk.js": "/chalak-online-cv/static/js/2.cc701cd9.chunk.js",
-    "static/js/2.cc701cd9.chunk.js.map": "/chalak-online-cv/static/js/2.cc701cd9.chunk.js.map",
+    "static/js/2.d08660f5.chunk.js": "/chalak-online-cv/static/js/2.d08660f5.chunk.js",
+    "static/js/2.d08660f5.chunk.js.map": "/chalak-online-cv/static/js/2.d08660f5.chunk.js.map",
     "index.html": "/chalak-online-cv/index.html",
-    "precache-manifest.815e369d145f7179ef6485dbc8e22e96.js": "/chalak-online-cv/precache-manifest.815e369d145f7179ef6485dbc8e22e96.js",
+    "precache-manifest.d94b88f55f54aafde41ddf6ae97587eb.js": "/chalak-online-cv/precache-manifest.d94b88f55f54aafde41ddf6ae97587eb.js",
     "service-worker.js": "/chalak-online-cv/service-worker.js",
     "static/css/2.06565635.chunk.css.map": "/chalak-online-cv/static/css/2.06565635.chunk.css.map",
-    "static/css/main.119bb0cc.chunk.css.map": "/chalak-online-cv/static/css/main.119bb0cc.chunk.css.map",
-    "static/media/app.scss": "/chalak-online-cv/static/media/bodybuilding.aace9438.png"
+    "static/css/main.d53b321e.chunk.css.map": "/chalak-online-cv/static/css/main.d53b321e.chunk.css.map",
+    "static/media/app.scss": "/chalak-online-cv/static/media/bodybuilding.aace9438.png",
+    "static/media/brands.css": "/chalak-online-cv/static/media/fa-brands-400.df02c782.woff",
+    "static/media/solid.css": "/chalak-online-cv/static/media/fa-solid-900.d6d8d5da.woff2"
   }
 }
