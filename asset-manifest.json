@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/chalak-online-cv/static/css/main.d53b321e.chunk.css",
-    "main.js": "/chalak-online-cv/static/js/main.75b1865c.chunk.js",
-    "main.js.map": "/chalak-online-cv/static/js/main.75b1865c.chunk.js.map",
-    "runtime~main.js": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js",
-    "runtime~main.js.map": "/chalak-online-cv/static/js/runtime~main.bbe3b277.js.map",
-    "static/css/2.06565635.chunk.css": "/chalak-online-cv/static/css/2.06565635.chunk.css",
-    "static/js/2.d08660f5.chunk.js": "/chalak-online-cv/static/js/2.d08660f5.chunk.js",
-    "static/js/2.d08660f5.chunk.js.map": "/chalak-online-cv/static/js/2.d08660f5.chunk.js.map",
-    "index.html": "/chalak-online-cv/index.html",
-    "precache-manifest.d94b88f55f54aafde41ddf6ae97587eb.js": "/chalak-online-cv/precache-manifest.d94b88f55f54aafde41ddf6ae97587eb.js",
-    "service-worker.js": "/chalak-online-cv/service-worker.js",
-    "static/css/2.06565635.chunk.css.map": "/chalak-online-cv/static/css/2.06565635.chunk.css.map",
-    "static/css/main.d53b321e.chunk.css.map": "/chalak-online-cv/static/css/main.d53b321e.chunk.css.map",
-    "static/media/app.scss": "/chalak-online-cv/static/media/bodybuilding.aace9438.png",
-    "static/media/brands.css": "/chalak-online-cv/static/media/fa-brands-400.df02c782.woff",
-    "static/media/solid.css": "/chalak-online-cv/static/media/fa-solid-900.d6d8d5da.woff2"
+    "main.css": "/static/css/main.b23f8404.chunk.css",
+    "main.js": "/static/js/main.675f4e8f.chunk.js",
+    "main.js.map": "/static/js/main.675f4e8f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.04eb08ed.js",
+    "runtime~main.js.map": "/static/js/runtime~main.04eb08ed.js.map",
+    "static/css/2.06565635.chunk.css": "/static/css/2.06565635.chunk.css",
+    "static/js/2.d08660f5.chunk.js": "/static/js/2.d08660f5.chunk.js",
+    "static/js/2.d08660f5.chunk.js.map": "/static/js/2.d08660f5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.719b68cf670ae2b5062944a5623f891b.js": "/precache-manifest.719b68cf670ae2b5062944a5623f891b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.06565635.chunk.css.map": "/static/css/2.06565635.chunk.css.map",
+    "static/css/main.b23f8404.chunk.css.map": "/static/css/main.b23f8404.chunk.css.map",
+    "static/media/app.scss": "/static/media/bodybuilding.aace9438.png",
+    "static/media/brands.css": "/static/media/fa-brands-400.df02c782.woff",
+    "static/media/solid.css": "/static/media/fa-solid-900.d6d8d5da.woff2"
   }
 }
